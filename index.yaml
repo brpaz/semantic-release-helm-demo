@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   example:
   - apiVersion: v2
-    appVersion: 1.1.0
-    created: "2020-08-16T14:11:30.461389109+01:00"
+    appVersion: 1.0.0
+    created: "2020-08-16T14:15:57.214007186+01:00"
     description: A Helm chart for Kubernetes
-    digest: 06eb3021d31204c8326b35a578251e65b7ca4ee65937bb30883a4f421f6469b9
+    digest: e3033b35e79147f40f6f7034644db5fcd20148b444889c0ee1e194f322e5aa46
     name: example
     type: application
     urls:
-    - https://brpaz.github.io/helm-semantic-release-demo/example-1.1.0.tgz
-    version: 1.1.0
-generated: "2020-08-16T14:11:29.293969208+01:00"
+    - https://brpaz.github.io/helm-semantic-release-demo/example-1.0.0.tgz
+    version: 1.0.0
+generated: "2020-08-16T14:15:56.046761126+01:00"
