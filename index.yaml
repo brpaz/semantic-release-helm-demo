@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   example:
   - apiVersion: v2
+    appVersion: 1.4.0
+    created: "2020-08-29T13:29:00.407724741Z"
+    description: A Helm chart for Kubernetes test
+    digest: fd65c85112e945ca0fbaec29412db3f535b98625fd2f5907283bdc452c921447
+    name: example
+    type: application
+    urls:
+    - https://brpaz.github.io/semantic-release-helm-demo/example-1.4.0.tgz
+    version: 1.4.0
+  - apiVersion: v2
     appVersion: 1.3.0
     created: "2020-08-23T10:44:00.179144381Z"
     description: A Helm chart for Kubernetes test
@@ -41,4 +51,4 @@ entries:
     urls:
     - https://brpaz.github.io/helm-semantic-release-demo/example-1.0.0.tgz
     version: 1.0.0
-generated: "2020-08-23T10:44:00.178436962Z"
+generated: "2020-08-29T13:29:00.406371236Z"
